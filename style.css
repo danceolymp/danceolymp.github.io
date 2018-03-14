@@ -1,0 +1,59 @@
+.navbar-brand{
+	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;;
+	/*font-size:4.5em;*/
+	font-size: 4.6vmax;
+	color:white;
+}
+.navbar{
+	background-color:purple;
+	color:white;
+}
+.tagline
+{
+	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;;
+	text-align: center;
+	font-style: italic;
+	
+	
+}
+.our-title{
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	line-height: 1em;
+	
+}
+.our-title:hover{
+	color: white;
+	
+}
+
+.navbar-dark .navbar-nav .nav-link
+{
+	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;;
+	color: rgba(255, 255, 255, 0.900);
+}
+.nav-link:hover
+{
+	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;;
+	color: darkturquoise;
+}
+.navbar-dark .navbar-toggler
+{
+	color: rgba(255, 255, 255, 0.900);
+	border-color:rgba(255, 255, 255, 0.900);
+}
+footer
+{
+	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
+	background-color:purple; 
+	color:white;
+	height: 9vh;
+	padding: 10px;
+}
+table
+{
+	text-align: center;
+	width: 50%;
+}
+
+
