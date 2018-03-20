@@ -52,8 +52,38 @@ footer
 }
 table
 {
-	text-align: center;
-	width: 50%;
+	text-align: center;	
+	margin-top: 50px;
+	
+	
 }
-
+.dances
+{
+	padding-left: 40%;
+	list-style-type: none;
+	
+}
+.dan
+{
+	text-align: center;
+}
+.photo
+{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.logo-image
+{
+	vertical-align: bottom;
+}
+.center
+{
+	margin: auto;
+}
+body
+{
+	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
+	
+}
 
