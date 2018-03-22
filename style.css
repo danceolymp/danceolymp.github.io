@@ -100,4 +100,8 @@ h2, h3
 {
 	background-color: rgba(128, 0, 128, 0.123);
 }
+iframe
+{
+	max-width: 100%;
+}
 
