@@ -59,7 +59,8 @@ table
 }
 .dances
 {
-	padding-left: 40%;
+	/*padding-left: 40%;*/
+	text-align: center;
 	list-style-type: none;
 	
 }
@@ -90,5 +91,13 @@ body
 {
 	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	
+}
+h2, h3
+{
+	color: purple;
+}
+.jumbotron
+{
+	background-color: rgba(128, 0, 128, 0.123);
 }
 
