@@ -2,6 +2,7 @@
 	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	/*font-size:4.5em;*/
 	font-size: 4.6vmax;
+	max-width: 100%;
 	color:white;
 }
 .navbar{
