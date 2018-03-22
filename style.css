@@ -1,5 +1,5 @@
 .navbar-brand{
-	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;;
+	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	/*font-size:4.5em;*/
 	font-size: 4.6vmax;
 	color:white;
@@ -10,7 +10,7 @@
 }
 .tagline
 {
-	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;;
+	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	text-align: center;
 	font-style: italic;
 	
@@ -29,12 +29,12 @@
 
 .navbar-dark .navbar-nav .nav-link
 {
-	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;;
+	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	color: rgba(255, 255, 255, 0.900);
 }
 .nav-link:hover
 {
-	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;;
+	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	color: darkturquoise;
 }
 .navbar-dark .navbar-toggler
