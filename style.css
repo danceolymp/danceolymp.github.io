@@ -47,8 +47,9 @@ footer
 	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	background-color:purple; 
 	color:white;
-	height: 9vh;
-	padding: 10px;
+	height: 20vh;
+	padding: 30px;
+	vertical-align: middle;
 }
 table
 {
@@ -104,4 +105,25 @@ iframe
 {
 	max-width: 100%;
 }
+.blockquote
+{
+	text-align: center;
+	font-style: italic;
+	color: purple;
+	max-width: 100%;
+	width: 370px;
+	padding-top: 10px;
+	padding-bottom: 25px;
+}
+.blockquote-footer
+{
+	text-align: right;
+}
 
+.quotes
+{
+	margin: 0px;
+	line-height: 0.6;
+	padding-right: 10px;
+	padding-left: 10px;
+}
