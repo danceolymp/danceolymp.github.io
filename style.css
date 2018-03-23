@@ -141,4 +141,33 @@ iframe
 	font-size:3em; 
 	vertical-align: center;
 }
-
+.card-header
+{
+	height:90.6px;
+	background-color:rgba(128, 0, 128, 0.123);
+	
+}
+.card-footer
+{
+	background-color:rgba(128, 0, 128, 0.123);
+}
+.btn-enroll
+{
+	background-color: orangered;
+	color: white;
+}
+.btn-enroll:hover
+{
+	background-color: orange;
+	color: white;
+}
+.btn-enroll:after
+{
+	background-color: orange;
+	color: white;
+}
+.btn-enroll:active
+{
+	background-color: orange;
+	color: white;
+}
