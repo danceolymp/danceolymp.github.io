@@ -127,4 +127,18 @@ iframe
 	padding-right: 10px;
 	padding-left: 10px;
 }
+.card
+{
+	width: 250px;
+	max-width: 100%;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.fa.fa-facebook-square
+{
+	color:#3b5998;
+	font-size:3em; 
+	vertical-align: center;
+}
 
