@@ -30,11 +30,31 @@
 {
 	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	color: rgba(255, 255, 255, 0.900);
+	text-align: center;
 }
 .nav-link:hover
 {
 	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
 	color: darkturquoise;
+	border-style: solid;
+	border-radius: 7px;
+	padding: 2px;
+	margin-top: 5px;
+	border-width: 1px;
+	border-color: darkturquoise;
+	
+}
+.nav-link.active
+{
+	border-style: solid;
+	border-radius: 7px;
+	padding: 2px;
+	border-width: 1px;
+	margin-top: 5px;
+}
+.nav-link.active:hover
+{
+	border-color: white;
 }
 .navbar-dark .navbar-toggler
 {
