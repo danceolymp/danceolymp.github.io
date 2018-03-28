@@ -111,7 +111,8 @@ table
 body
 {
 	font-family:TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
-	
+	background-color: purple;
+	color: white;
 }
 h2, h3
 {
@@ -195,4 +196,8 @@ iframe
 {
 	font-size:1.3em;
 	vertical-align: middle;
+}
+.text
+{
+	margin-top: 20%;
 }
