@@ -13,7 +13,11 @@
 	text-align: center;
 	font-style: italic;
 	
-	
+}
+.navbar-header
+{
+	max-width: 70%;
+	word-wrap: break-word;
 }
 .our-title{
 	padding-bottom: 0px;
@@ -206,3 +210,4 @@ iframe
 	padding: 3px;
 	margin-top: 5px;
 }
+
