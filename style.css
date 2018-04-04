@@ -76,8 +76,7 @@ footer
 table
 {
 	text-align: center;	
-	margin-top: 50px;
-	
+	margin-top: 10px;
 	
 }
 .dances
@@ -209,5 +208,14 @@ iframe
 {
 	padding: 3px;
 	margin-top: 5px;
+}
+#myTab
+{
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.table-striped tbody tr:nth-of-type(2n+1)
+{
+	background-color: rgba(128, 0, 128, 0.048);
 }
 
