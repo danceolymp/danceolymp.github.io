@@ -218,4 +218,16 @@ iframe
 {
 	background-color: rgba(128, 0, 128, 0.048);
 }
-
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link
+{
+	background-color: purple;
+}
+.nav-pills
+{
+	margin-bottom: 10px;
+}
+.tab-content > .tab-pane
+{
+	padding-left: 0px;
+	padding-top: 10px;
+}
