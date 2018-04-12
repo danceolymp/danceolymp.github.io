@@ -231,3 +231,8 @@ iframe
 	padding-left: 0px;
 	padding-top: 10px;
 }
+.social
+{
+	background-color: rgba(128, 0, 128, 0.123);
+	margin-bottom: 30px;
+}
