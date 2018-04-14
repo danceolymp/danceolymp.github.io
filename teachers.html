@@ -27,6 +27,23 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
+  <!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.12&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+  page_id="2071447303132804"
+  theme_color="#800080"
+  logged_in_greeting="Здравствуйте! Что Вас интересует?"
+  logged_out_greeting="Здравствуйте! Что Вас интересует?">
+</div>
     <header>
         <nav class="navbar navbar-expand-sm navbar-dark">
           <section class="container-fluid">
